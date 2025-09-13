@@ -1,1 +1,2 @@
-# Supervised-Learning-ML-Project
+# MIT License
+## Supervised Machine Learning Model project 
